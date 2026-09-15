@@ -1,0 +1,6 @@
+{
+  "name": "FREZZO - Premium Desserts & Confectionery",
+  "description": "Handcrafted fresh malai and artisanal fruit desserts by FREZZO, founded by Miss. Chinnari. Delivered fresh in chilled packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
